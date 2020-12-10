@@ -1,5 +1,5 @@
 modification du commit initial
-Ajout du commit 1
+commit 1
 Ajout du commit 2
 Ajout du commit 3
 Ajout du commit 4
