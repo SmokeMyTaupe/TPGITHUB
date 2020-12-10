@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 modification du commit initial
-=======
-modification depuis le main 
->>>>>>> 9873e2f... modification depuis le main
